@@ -54,7 +54,7 @@ json_export_map[? "sub map"][? "a map"] = ds_map_create();
 json_export_string = json_encode(json_export_map)
 
 //export the json file
-export_json("json_export.txt", json_export_map);
+export_json("json_export.txt", json_export_map, json_encode);
 
 //destroy the maps
 ds_map_destroy(json_export_map);

@@ -1,0 +1,14 @@
+[
+	{
+		"@number": 50,
+		"1string": "Hello World"
+	},
+	{
+		"infinity": 25,
+		"score": "Goodbye"
+	},
+	{
+		"a weird variable": 125
+	}
+]
+
