@@ -33,7 +33,8 @@ function import_json(_file_name, _func) {
 ///			as arrays and structs.	
 function export_json(_file_name, _data, _func) {
 	var _file = file_text_open_write(_file_name);
-	file_text_write_string(_file, script_execute(_func, _data));
+	var _string = script_execute(_func, _data);
+	file_text_write_string(_file, _string);
 	file_text_close(_file);
 }
 

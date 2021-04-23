@@ -18,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_json_tester","path":"objects/obj_json_tester/obj_json_tester.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -27,7 +27,7 @@
     "path": "YouTube JSON Public.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "obj_json_tester",
+  "name": "obj_save_steps",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -56,7 +56,7 @@ export_json("struct_example.txt", top_struct, json_stringify);
 export_json("array_example.txt", top_array, json_stringify); 
 
 loaded_struct = import_json("struct_example.txt", json_parse);
-loaded_array = import_json("array_example.txt", json_parse);
+loaded_array = import_json("json_example_1.txt", json_parse);
 
 #endregion
 

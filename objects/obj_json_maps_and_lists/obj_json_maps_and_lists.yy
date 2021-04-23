@@ -27,7 +27,7 @@
     "path": "YouTube JSON Public.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "obj_json_structs_and_arrays",
+  "name": "obj_json_maps_and_lists",
   "tags": [],
   "resourceType": "GMObject",
 }
